@@ -6,6 +6,6 @@ int open_pwfile() {
     return 0;
 }
 
-int load_pwfile() {
+int save_pwfile() {
     return 0;
 }
